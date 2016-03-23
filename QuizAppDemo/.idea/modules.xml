@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../...iml" filepath="$PROJECT_DIR$/../...iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Fred.iml" filepath="$PROJECT_DIR$/../../../Fred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Fred.iml" filepath="$PROJECT_DIR$/../../../Fred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Fred.iml" filepath="$PROJECT_DIR$/../../../Fred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibraryProject/LibraryProject.iml" filepath="$PROJECT_DIR$/../LibraryProject/LibraryProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuizAppDemo.iml" filepath="$PROJECT_DIR$/QuizAppDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibraryProject/quizapi/quizAPI.iml" filepath="$PROJECT_DIR$/../LibraryProject/quizapi/quizAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibraryProject/quizviews/quizViews.iml" filepath="$PROJECT_DIR$/../LibraryProject/quizviews/quizViews.iml" />
+    </modules>
+  </component>
+</project>
